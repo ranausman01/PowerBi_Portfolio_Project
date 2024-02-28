@@ -35,6 +35,10 @@ The primary objectives of this project were to:
 
 - **Career Challenges and Satisfaction**: Gauge the perceived difficulty of entering the data field and assess satisfaction levels regarding work/life balance and salary, crucial for talent retention and organizational improvement initiatives.
 
+
+![image](https://github.com/ranausman01/PowerBi_Portfolio_Project/assets/161476245/3f43b50c-daf5-437d-be31-338915bdf620)
+
+
 ## Repository Contents:
 
 - **Excel File**: Raw survey data (`Data_Professional_Survey.xlsx`) used for analysis.
